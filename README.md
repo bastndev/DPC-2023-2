@@ -52,7 +52,7 @@
 
 ### Images
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/src/md/md6.png?raw=true)
 
 #### Responsive
 
@@ -123,9 +123,9 @@
 
 ```
 
-### Images
+### Images Responsive
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/src/md/md7.png?raw=true)
 
 <div align="center"> 
 <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
