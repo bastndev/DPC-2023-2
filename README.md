@@ -31,7 +31,7 @@
 
 ### Images
 
-![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/src/md/md1.png?raw=true)
+![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/public/assets/md/md1.png)
 
 #### Css
 
