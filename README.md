@@ -31,7 +31,7 @@
 
 ### Images
 
-![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/public/assets/md/md1.png)
+![App Screenshot](https://raw.githubusercontent.com/bastndev/DPC-Website-Modern-2023/main/public/assets/md/md1.png)
 
 #### Css
 
@@ -52,7 +52,7 @@
 
 ### Images
 
-![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/src/md/md6.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/bastndev/DPC-Website-Modern-2023/main/public/assets/md/md6.png)
 
 #### Responsive
 
@@ -125,7 +125,7 @@
 
 ### Images Responsive
 
-![App Screenshot](https://github.com/bastndev/DPC-Website-Modern-2023/blob/main/src/md/md7.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/bastndev/DPC-Website-Modern-2023/main/public/assets/md/md7.png)
 
 <div align="center"> 
 <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
