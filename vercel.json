@@ -1,0 +1,21 @@
+{
+  "rewrites": [],
+  "routes": [
+    {
+      "src": "/css/(.*)",
+      "dest": "/src/css/$1"
+    },
+    {
+      "src": "/js/(.*)",
+      "dest": "/src/js/$1"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "/src/assets/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/public/$1"
+    }
+  ]
+}
